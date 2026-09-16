@@ -1,4 +1,4 @@
-# 🪂 Fly — Sistem Penilaian Kelayakan Terbang Paralayang
+# 🪂 Sistem Penilaian Kelayakan Terbang Paralayang
 
 Repository ini berisi implementasi metode Fuzzy Inference dengan Probabilistic Rule Weighting untuk menilai kelayakan terbang paralayang berdasarkan variabel cuaca.
 
